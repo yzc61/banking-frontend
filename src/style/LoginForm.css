@@ -1,0 +1,31 @@
+/* Add your custom styles here */
+.login-container {
+    max-width: 300px;
+    margin: 5% auto; /* Adjust the percentage as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center; /* Center the content horizontally */
+}
+
+.login-form {
+    max-width: 300px;
+}
+
+/* Center the button */
+.login-container button {
+    display: block;
+    margin: 15px auto; /* Adjust the margin for the button */
+}
+
+/* Register text and link style */
+.register-link {
+    margin-top: 10px; /* Adjust the margin for the register text */
+    font-size: 14px;
+}
+
+.register-link a {
+    color: #1890ff; /* Link color */
+}

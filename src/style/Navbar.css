@@ -1,0 +1,27 @@
+/* Add your custom styles here */
+.navbar {
+    background-color: #999;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+}
+
+.nav-item {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.sign-out {
+    cursor: pointer;
+}

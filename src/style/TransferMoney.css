@@ -1,0 +1,43 @@
+/* Add your custom styles here */
+.transfer-form {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.transfer-form h2 {
+    text-align: center;
+}
+
+.transfer-form label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.transfer-form .select-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.transfer-form .arrow {
+    margin: 0 10px;
+}
+
+.transfer-form .ant-select {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.transfer-form .ant-input {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.transfer-form .ant-btn {
+    width: 100%;
+}
